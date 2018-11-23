@@ -1,0 +1,8 @@
+/application.properties
+/com/
+/scripts.sh
+/templates/
+/insert.sql
+/data.sql
+/employee-insert.sql
+/application-dev.properties
